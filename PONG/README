@@ -1,4 +1,16 @@
-Remake of the clasic 1972 Atatri Pong game
-Most of the code was provided through online course CS50 Introduction to Game Development by Harvard's edX online class.
-
-Assignment was to implement "AI" control to the 2nd paddle's movement so the game could be played in a single player mode.
+GD50 Introduction to Game Development
+    Pong Remake
+    Instuctor and Author: Colton Ogden
+    cogden@cs50.harvard.edu
+    
+    Originally programmed by Atari in 1972. Features two
+    paddles, controlled by players, with the goal of getting
+    the ball past your opponent's edge. First to 10 points wins.
+    
+    #-----------------------------------------------------------#
+    
+    Author: Zack Watters
+    19zjw1@queensu.ca
+    
+    Assignment was to implement "AI" control to the 2nd paddle's 
+    movement so the game could be played in a single player mode.
