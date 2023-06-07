@@ -1,0 +1,14 @@
+GD50 Introduction to Game Development
+    Flappy Bird Remake
+    Instuctor and Author: Colton Ogden
+    cogden@cs50.harvard.edu
+    
+    #-----------------------------------------------------------#
+    
+    Author: Zack Watters
+    19zjw1@queensu.ca
+    
+    Assignment was to make the gaps between pipes slighlty random,
+    make the distant between pipe pairs slightly random, 
+    award medals based on the players score (gold = 30, silver = 20, bronze = 10),
+    and to implment the pause feature. 
