@@ -49,8 +49,6 @@ function ScoreState:render()
     elseif self.score >= 10 then
         love.graphics.draw(bronze, VIRTUAL_WIDTH/2 - 25, 130)
         love.graphics.printf('You earned a Bronze medal!', 0, 195, VIRTUAL_WIDTH, 'center') 
-    else 
-        love.graphics.printf('You are TRASH!', 0, 140, VIRTUAL_WIDTH, 'center')
     end
 
     love.graphics.setFont(mediumFont)
